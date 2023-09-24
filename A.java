@@ -6,5 +6,6 @@ class A
 		System.out.println("How are you manju");
 		System.out.println("How are you manju");
 		System.out.println("How are you manju");
+		System.out.println("Yaru da athu Manju");
 	}
 }
